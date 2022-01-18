@@ -1,0 +1,12 @@
+64 bytes from 159.203.53.111: icmp_seq=1 ttl=64 time=1.88 ms
+64 bytes from 159.203.53.111: icmp_seq=2 ttl=64 time=0.314 ms
+64 bytes from 159.203.53.111: icmp_seq=3 ttl=64 time=0.217 ms
+64 bytes from 159.203.53.111: icmp_seq=4 ttl=64 time=0.217 ms
+64 bytes from 159.203.53.111: icmp_seq=5 ttl=64 time=0.239 ms
+64 bytes from 159.203.53.111: icmp_seq=6 ttl=64 time=0.256 ms
+64 bytes from 159.203.53.111: icmp_seq=7 ttl=64 time=0.273 ms
+64 bytes from 159.203.53.111: icmp_seq=8 ttl=64 time=0.238 ms
+64 bytes from 159.203.53.111: icmp_seq=9 ttl=64 time=0.252 ms
+64 bytes from 159.203.53.111: icmp_seq=10 ttl=64 time=0.227 ms
+64 bytes from 159.203.53.111: icmp_seq=11 ttl=64 time=0.176 ms
+64 bytes from 159.203.53.111: icmp_seq=12 ttl=64 time=0.222 ms

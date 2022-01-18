@@ -1,0 +1,3 @@
+PING google.com (142.251.33.174) 56(84) bytes of data.
+64 bytes from yyz10s17-in-f14.1e100.net (142.251.33.174): icmp_seq=1 ttl=121 time=1.03 ms
+

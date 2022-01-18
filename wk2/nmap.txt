@@ -1,0 +1,54 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-18 02:49 UTC
+Nmap scan report for sega.com (52.48.84.227)
+Host is up (0.10s latency).
+Other addresses for sega.com (not scanned): 52.214.107.249
+rDNS record for 52.48.84.227: ec2-52-48-84-227.eu-west-1.compute.amazonaws.com
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-18 02:50 UTC
+Nmap scan report for sega.com (52.214.107.249)
+Host is up (0.099s latency).
+Other addresses for sega.com (not scanned): 52.48.84.227
+rDNS record for 52.214.107.249: ec2-52-214-107-249.eu-west-1.compute.amazonaws.com
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.40 seconds
+
+
+80/tcp  open     http
+81/tcp  filtered hosts2-ns
+82/tcp  filtered xfer
+83/tcp  filtered mit-ml-dev
+84/tcp  filtered ctf
+85/tcp  filtered mit-ml-dev
+86/tcp  filtered mfcobol
+87/tcp  filtered priv-term-l
+88/tcp  filtered kerberos-sec
+89/tcp  filtered su-mit-tg
+90/tcp  filtered dnsix
+91/tcp  filtered mit-dov
+92/tcp  filtered npp
+93/tcp  filtered dcp
+94/tcp  filtered objcall
+95/tcp  filtered supdup
+96/tcp  filtered dixie
+97/tcp  filtered swift-rvf
+98/tcp  filtered linuxconf
+99/tcp  filtered metagram
+100/tcp filtered newacct
+
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-18 02:52 UTC
+Nmap scan report for google.com (142.251.32.78)
+Host is up (0.0014s latency).
+Other addresses for google.com (not scanned): 2607:f8b0:400b:804::200e
+rDNS record for 142.251.32.78: yyz12s07-in-f14.1e100.net
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
