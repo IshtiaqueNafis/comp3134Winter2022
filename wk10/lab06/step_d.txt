@@ -1,0 +1,2 @@
+﻿Hello wasn't found in the current directory
+gives what function is being used and the file structure
