@@ -1,0 +1,2 @@
+﻿the web directory as well as how we can go back a directory which can reveal the root files
+the relative root directory

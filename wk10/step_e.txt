@@ -1,0 +1,1 @@
+﻿file_exists($path) ? print_r(basename($path)) : print("doesn't exist");

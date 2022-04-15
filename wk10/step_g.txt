@@ -1,0 +1,17 @@
+﻿<h1>Example</h1>
+<?php //Comment ?>
+
+<h2>Example</h2>
+<?php //Comment ?>
+
+<h3>Example</h3>
+<?php //Comment ?>
+
+<h4>Example</h4>
+<?php //Comment ?>
+
+<h5>Example</h5>
+<?php //Comment ?>
+
+<h6>Example</h6>
+<?php //Comment ?>

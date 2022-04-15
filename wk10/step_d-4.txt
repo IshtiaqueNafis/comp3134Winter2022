@@ -1,0 +1,2 @@
+﻿it shows all the directories of the vps
+shows us sensitive directories like mail, crash
